@@ -1,0 +1,11 @@
+# Mental Focus Desk Lamp - Python Dependencies
+# 
+# Current dependencies are minimal as we're using standard library modules:
+# - random (for sensor simulation)
+# - time (for main loop timing)
+#
+# Future dependencies may include:
+# numpy>=1.21.0          # For advanced data processing
+# matplotlib>=3.5.0      # For data visualization
+# pandas>=1.3.0          # For data analysis
+# scipy>=1.7.0           # For signal processing
