@@ -171,25 +171,6 @@ Instead of requiring expensive hardware, this project uses:
 
 ---
 
-## 📖 Further Reading
-
-### **IoT Fundamentals**
-- [IoT Architecture Patterns](https://example.com/iot-patterns)
-- [Sensor Networks Design](https://example.com/sensor-networks)
-- [Edge Computing Principles](https://example.com/edge-computing)
-
-### **Embedded Systems**
-- [GPIO Programming Guide](https://example.com/gpio-guide)
-- [Real-time Systems Design](https://example.com/realtime-systems)
-- [Hardware Abstraction Layers](https://example.com/hal-design)
-
-### **Python for IoT**
-- [Python IoT Libraries](https://example.com/python-iot)
-- [MicroPython for Embedded](https://example.com/micropython)
-- [Testing IoT Applications](https://example.com/iot-testing)
-
----
-
 ## 🎯 Assessment Criteria
 
 ### **Beginner Level** ⭐
